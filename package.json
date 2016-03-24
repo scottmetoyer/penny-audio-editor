@@ -1,0 +1,23 @@
+{
+  "name": "penny-audio-editor",
+  "version": "1.0.0",
+  "description": "Cross platform audio editing tool",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scottmetoyer/penny-audio-editor.git"
+  },
+  "author": "Scott Metoyer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scottmetoyer/penny-audio-editor/issues"
+  },
+  "homepage": "https://github.com/scottmetoyer/penny-audio-editor#readme",
+  "devDependencies": {
+    "electron-prebuilt": "^0.37.2"
+  }
+}
